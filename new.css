@@ -55,7 +55,7 @@ img{
     width: 150px;
     height: 150px;
     border-radius: 100px;
-    margin-left: 650px;
+    margin-left: 690px;
     margin-top: 100px;
   }button{
     width: 100px;
@@ -65,7 +65,7 @@ img{
     border: 1px solid white;
     background: transparent;
     cursor:pointer;
-    margin-left: 650px;
+    margin-left: 690px;
     
     margin-top: 12px;
   }
@@ -122,7 +122,7 @@ footer{
     cursor: pointer;
 }
 #create{
-    margin-left: 650px;
+    margin-left: 690px;
     
 }
 @media screen and (max-width:500px) {
